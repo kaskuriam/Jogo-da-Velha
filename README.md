@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/status-FINISH-green">
 </p>
 
-![Captura da Web_20-7-2023_182035_](https://github.com/kaskuriam/Jogo-da-Velha/assets/139079558/ce1189ca-93f9-4d00-b1c6-38f0bd585d95)
+![Jogo da Velha](https://github.com/kaskuriam/Jogo-da-Velha/assets/139079558/31a774fe-1ec5-49de-a79b-c0d781c882c3)
 
 
 ## 🚀 Tecnologias
